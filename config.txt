@@ -1,0 +1,5 @@
+* LPARS * ZOSMF PROFILE 
+*---------------------- 
+mstrbrs   zosmf-mstrbrs
+sr01brs   zosmf-sr01brs
+mstrsvw   zosmf-mstrsvw
